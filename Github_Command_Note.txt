@@ -2,3 +2,9 @@ Commands      ===>  Workings
 
 git --version ===> to Check the current version of github
 git init      ===> to Initialize git repository
+git clone URL ===> to clone repos from Github  //Replace the link of the   
+                   repo with URL
+ls            ===> to see the list of the files and folders
+git status    ===> to observe the change/modifications of the folder
+git add .     ===> to stage all the files
+git reset     ===> to reset all achievements or status
