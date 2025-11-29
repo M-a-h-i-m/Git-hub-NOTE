@@ -1,1 +1,9 @@
 Hi this is Mahim learning Github
+Hi there it is easy to learn Github
+here is how you can learn github__
+
+
+First of all initialize the github repository.For doing this you have to write the command ---->>> git init
+
+after initializing the git repo we have to add or stage the repo with this command
+-------->>>>> git add . // git add -A // git add --all  (Here we can use any of them)
